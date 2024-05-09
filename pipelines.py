@@ -1,5 +1,5 @@
 import json
-
+import os
 
 class JsonExportPipeline:
     def __init__(self):
@@ -10,5 +10,6 @@ class JsonExportPipeline:
         return item
 
     def close_spider(self, spider):
-        with open("entries.json", "w", encoding="utf-8") as f:
+        file_path = os.path.join('data', 'entries.json')
+        with open(file_path, "w", encoding="utf-8") as f:
             json.dump(self.items, f, ensure_ascii=False, indent=4)

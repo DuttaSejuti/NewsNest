@@ -1,0 +1,44 @@
+[
+    {
+        "order": 5,
+        "title": "Algebraic Data Types for C99",
+        "total_comments": 113,
+        "points": 226
+    },
+    {
+        "order": 13,
+        "title": "No \"Zero-Shot\" Without Exponential Data",
+        "total_comments": 49,
+        "points": 105
+    },
+    {
+        "order": 25,
+        "title": "Xilinx HBM2 Internals (2023)",
+        "total_comments": 9,
+        "points": 52
+    },
+    {
+        "order": 3,
+        "title": "ESP32 Drum Synth Machine",
+        "total_comments": 5,
+        "points": 42
+    },
+    {
+        "order": 28,
+        "title": "Hymn for Walpurgisnacht",
+        "total_comments": 12,
+        "points": 38
+    },
+    {
+        "order": 11,
+        "title": "Blade Runner",
+        "total_comments": 3,
+        "points": 12
+    },
+    {
+        "order": 4,
+        "title": "Machine Super Intelligence [pdf]",
+        "total_comments": 0,
+        "points": 11
+    }
+]
