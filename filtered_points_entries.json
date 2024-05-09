@@ -1,0 +1,32 @@
+[
+    {
+        "order": 2,
+        "title": "Algebraic Data Types for C99",
+        "total_comments": 78,
+        "points": 194
+    },
+    {
+        "order": 23,
+        "title": "Symbolica Computer Algebra System",
+        "total_comments": 72,
+        "points": 92
+    },
+    {
+        "order": 6,
+        "title": "No \"Zero-Shot\" Without Exponential Data",
+        "total_comments": 36,
+        "points": 70
+    },
+    {
+        "order": 16,
+        "title": "Xilinx HBM2 Internals (2023)",
+        "total_comments": 6,
+        "points": 50
+    },
+    {
+        "order": 17,
+        "title": "Hymn for Walpurgisnacht",
+        "total_comments": 10,
+        "points": 33
+    }
+]
