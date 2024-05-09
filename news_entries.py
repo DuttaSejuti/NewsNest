@@ -1,7 +1,8 @@
 import scrapy
 
+
 class NewsEntry(scrapy.Item):
-    title = scrapy.Field()
     order = scrapy.Field()
+    title = scrapy.Field()
     total_comments = scrapy.Field()
     points = scrapy.Field()
