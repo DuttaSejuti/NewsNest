@@ -10,5 +10,5 @@ class JsonExportPipeline:
         return item
 
     def close_spider(self, spider):
-        with open("entries.json", "w") as f:
-            json.dump(self.items, f, indent=4)
+        with open("entries.json", "w", encoding="utf-8") as f:
+            json.dump(self.items, f, ensure_ascii=False, indent=4)
