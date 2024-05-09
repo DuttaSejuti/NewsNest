@@ -1,0 +1,182 @@
+[
+    {
+        "order": 1,
+        "title": "Microsoft PlayReady – Complete Client Identity Compromise",
+        "total_comments": 36,
+        "points": 104
+    },
+    {
+        "order": 2,
+        "title": "Algebraic Data Types for C99",
+        "total_comments": 43,
+        "points": 143
+    },
+    {
+        "order": 3,
+        "title": "Tracking Illicit Brazilian Beef from the Amazon to Your Burger",
+        "total_comments": 166,
+        "points": 192
+    },
+    {
+        "order": 4,
+        "title": "Exploring HN by mapping and analyzing 40M posts and comments for fun",
+        "total_comments": 28,
+        "points": 86
+    },
+    {
+        "order": 5,
+        "title": "VideoPrism: A foundational visual encoder for video understanding",
+        "total_comments": 5,
+        "points": 19
+    },
+    {
+        "order": 6,
+        "title": "Show HN: An SQS Alternative on Postgres",
+        "total_comments": 6,
+        "points": 35
+    },
+    {
+        "order": 7,
+        "title": "What I mean when I say that machine learning in Elixir is production-ready",
+        "total_comments": 2,
+        "points": 55
+    },
+    {
+        "order": 8,
+        "title": "UTC, Tai, and Unix Time (2001)",
+        "total_comments": 75,
+        "points": 70
+    },
+    {
+        "order": 9,
+        "title": "Microsoft says it needs games like Hi-Fi Rush the day after killing its studio",
+        "total_comments": 5,
+        "points": 17
+    },
+    {
+        "order": 10,
+        "title": "Show HN: Browser-based knitting (pattern) software",
+        "total_comments": 9,
+        "points": 44
+    },
+    {
+        "order": 11,
+        "title": "No \"Zero-Shot\" Without Exponential Data",
+        "total_comments": 4,
+        "points": 19
+    },
+    {
+        "order": 12,
+        "title": "AlphaFold 3 predicts the structure and interactions of life's molecules",
+        "total_comments": 420,
+        "points": 992
+    },
+    {
+        "order": 13,
+        "title": "Xilinx HBM2 Internals",
+        "total_comments": 5,
+        "points": 40
+    },
+    {
+        "order": 14,
+        "title": "How Bad Are Ultraprocessed Foods, Really?",
+        "total_comments": 15,
+        "points": 16
+    },
+    {
+        "order": 15,
+        "title": "Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x",
+        "total_comments": 76,
+        "points": 398
+    },
+    {
+        "order": 16,
+        "title": "Temporal Python – A durable, distributed asyncio event loop (2023)",
+        "total_comments": 23,
+        "points": 127
+    },
+    {
+        "order": 17,
+        "title": "CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE",
+        "total_comments": 0,
+        "points": 0
+    },
+    {
+        "order": 18,
+        "title": "Test Failures Should Be Actionable",
+        "total_comments": 0,
+        "points": 10
+    },
+    {
+        "order": 19,
+        "title": "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
+        "total_comments": 82,
+        "points": 177
+    },
+    {
+        "order": 20,
+        "title": "OpenAI Is Readying a Search Product to Rival Google, Perplexity",
+        "total_comments": 0,
+        "points": 5
+    },
+    {
+        "order": 21,
+        "title": "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
+        "total_comments": 97,
+        "points": 153
+    },
+    {
+        "order": 22,
+        "title": "Industrial Design Student Work: \"How Long Should Objects Last?\"",
+        "total_comments": 135,
+        "points": 201
+    },
+    {
+        "order": 23,
+        "title": "The Time I Lied to the CTO and Saved the Day",
+        "total_comments": 295,
+        "points": 397
+    },
+    {
+        "order": 24,
+        "title": "Apple faces celebrity backlash over piano crushing",
+        "total_comments": 0,
+        "points": 5
+    },
+    {
+        "order": 25,
+        "title": "Sony Wearable Thermal Device",
+        "total_comments": 38,
+        "points": 58
+    },
+    {
+        "order": 26,
+        "title": "Show HN: AI climbing coach – visualize how to climb any route based on your body",
+        "total_comments": 127,
+        "points": 286
+    },
+    {
+        "order": 27,
+        "title": "TimesFM: Time Series Foundation Model for time-series forecasting",
+        "total_comments": 99,
+        "points": 282
+    },
+    {
+        "order": 28,
+        "title": "A Man Who Raced to Tell the World That Mount Everest Had Been Climbed",
+        "total_comments": 8,
+        "points": 55
+    },
+    {
+        "order": 29,
+        "title": "Development Notes from xkcd's \"Machine\"",
+        "total_comments": 76,
+        "points": 633
+    },
+    {
+        "order": 30,
+        "title": "Breathwork supports emergence of altered states of consciousness",
+        "total_comments": 86,
+        "points": 188
+    }
+]
