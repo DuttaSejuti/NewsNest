@@ -27,15 +27,18 @@ class NewsSpider(scrapy.Spider):
     def extract_title(self, entry):
         return entry.xpath('.//span[@class="titleline"]/a/text()').get()
 
+    def get_int_value_from_text(self, text):
+        return int(re.search(r"\d+", text).group()) if text else 0
+
     def extract_comments_and_points(self, entry):
         next_sibling = entry.xpath("./following-sibling::tr")[0]
         comments_text = next_sibling.xpath(
             './/a[contains(text(), "comments")]/text()'
         ).get()
-        comments = int(re.search(r"\d+", comments_text).group()) if comments_text else 0
+        comments = self.get_int_value_from_text(comments_text)
 
         points_text = next_sibling.xpath('.//span[@class="score"]/text()').get()
-        points = int(re.search(r"\d+", points_text).group()) if points_text else 0
+        points = self.get_int_value_from_text(points_text)
 
         return comments, points
 
