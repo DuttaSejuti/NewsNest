@@ -1,50 +1,56 @@
 [
     {
-        "order": 6,
-        "title": "Algebraic Data Types for C99",
-        "total_comments": 126,
-        "points": 238
+        "order": 30,
+        "title": "It's always TCP_NODELAY",
+        "total_comments": 232,
+        "points": 746
     },
     {
-        "order": 16,
-        "title": "No \"Zero-Shot\" Without Exponential Data",
-        "total_comments": 67,
-        "points": 122
+        "order": 2,
+        "title": "Popover API",
+        "total_comments": 101,
+        "points": 197
     },
     {
-        "order": 28,
-        "title": "Symbolica Computer Algebra System",
-        "total_comments": 86,
-        "points": 109
+        "order": 29,
+        "title": "CS388: Natural Language Processing",
+        "total_comments": 9,
+        "points": 116
     },
     {
-        "order": 4,
-        "title": "ESP32 Drum Synth Machine",
+        "order": 13,
+        "title": "Logicola 3",
+        "total_comments": 8,
+        "points": 77
+    },
+    {
+        "order": 10,
+        "title": "Tine Text Editor",
         "total_comments": 6,
-        "points": 61
-    },
-    {
-        "order": 22,
-        "title": "Xilinx HBM2 Internals (2023)",
-        "total_comments": 10,
-        "points": 57
-    },
-    {
-        "order": 25,
-        "title": "Hymn for Walpurgisnacht",
-        "total_comments": 12,
-        "points": 38
+        "points": 36
     },
     {
         "order": 14,
-        "title": "Logarithmic Scales",
-        "total_comments": 0,
-        "points": 10
+        "title": "Trip C++Now 2024 – think-cell",
+        "total_comments": 12,
+        "points": 35
     },
     {
-        "order": 30,
-        "title": "Sean Baxter: Safe C++ [video]",
+        "order": 3,
+        "title": "Life-like particle system",
+        "total_comments": 3,
+        "points": 26
+    },
+    {
+        "order": 6,
+        "title": "OpenBSD Desktop",
+        "total_comments": 7,
+        "points": 25
+    },
+    {
+        "order": 18,
+        "title": "Hexagonal Tiling Honeycomb",
         "total_comments": 0,
-        "points": 6
+        "points": 5
     }
 ]
