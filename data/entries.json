@@ -1,182 +1,182 @@
 [
     {
         "order": 1,
-        "title": "Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships",
-        "total_comments": 40,
-        "points": 73
+        "title": "Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years",
+        "total_comments": 42,
+        "points": 166
     },
     {
         "order": 2,
-        "title": "Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done",
-        "total_comments": 36,
-        "points": 99
-    },
-    {
-        "order": 3,
-        "title": "Shane Legg: Machine Super Intelligence (2008) [pdf]",
-        "total_comments": 9,
-        "points": 24
-    },
-    {
-        "order": 4,
-        "title": "ESP32 Drum Synth Machine",
-        "total_comments": 6,
-        "points": 61
-    },
-    {
-        "order": 5,
-        "title": "It's always TCP_NODELAY. Every damn time",
-        "total_comments": 7,
-        "points": 19
-    },
-    {
-        "order": 6,
-        "title": "Algebraic Data Types for C99",
-        "total_comments": 126,
-        "points": 238
-    },
-    {
-        "order": 7,
-        "title": "Show HN: Ellipsis – Automated PR reviews and bug fixes",
-        "total_comments": 17,
-        "points": 23
-    },
-    {
-        "order": 8,
-        "title": "Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun",
-        "total_comments": 75,
+        "title": "Popover API",
+        "total_comments": 101,
         "points": 197
     },
     {
+        "order": 3,
+        "title": "Life-like particle system",
+        "total_comments": 3,
+        "points": 26
+    },
+    {
+        "order": 4,
+        "title": "Superfile – A fancy, pretty terminal file manager",
+        "total_comments": 9,
+        "points": 40
+    },
+    {
+        "order": 5,
+        "title": "Apple’s “Let Loose” iPad event was shot on iPhone with Panavision lenses",
+        "total_comments": 0,
+        "points": 5
+    },
+    {
+        "order": 6,
+        "title": "OpenBSD Desktop",
+        "total_comments": 7,
+        "points": 25
+    },
+    {
+        "order": 7,
+        "title": "Is the largest root of a random polynomial more likely to be real than complex?",
+        "total_comments": 52,
+        "points": 107
+    },
+    {
+        "order": 8,
+        "title": "Roman Tyrian purple snail dye found in UK for first time",
+        "total_comments": 59,
+        "points": 123
+    },
+    {
         "order": 9,
-        "title": "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
+        "title": "Apple apologizes for iPad 'Crush' ad that 'missed the mark'",
+        "total_comments": 890,
+        "points": 394
+    },
+    {
+        "order": 10,
+        "title": "Tine Text Editor",
+        "total_comments": 6,
+        "points": 36
+    },
+    {
+        "order": 11,
+        "title": "Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL",
+        "total_comments": 8,
+        "points": 29
+    },
+    {
+        "order": 12,
+        "title": "Apple to Power AI Features with M2 Ultra Servers",
+        "total_comments": 30,
+        "points": 31
+    },
+    {
+        "order": 13,
+        "title": "Logicola 3",
+        "total_comments": 8,
+        "points": 77
+    },
+    {
+        "order": 14,
+        "title": "Trip C++Now 2024 – think-cell",
+        "total_comments": 12,
+        "points": 35
+    },
+    {
+        "order": 15,
+        "title": "SWPC issues first G4 geomagnetic storm watch since 2005",
+        "total_comments": 17,
+        "points": 40
+    },
+    {
+        "order": 16,
+        "title": "Computer models suggest modern plate tectonics due to blobs left by collision",
+        "total_comments": 29,
+        "points": 41
+    },
+    {
+        "order": 17,
+        "title": "Unbearable hours, threats of being fired: The abuse of migrant interns in Japan",
+        "total_comments": 34,
+        "points": 62
+    },
+    {
+        "order": 18,
+        "title": "Hexagonal Tiling Honeycomb",
+        "total_comments": 0,
+        "points": 5
+    },
+    {
+        "order": 19,
+        "title": "Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)",
         "total_comments": 0,
         "points": 0
     },
     {
-        "order": 10,
-        "title": "Show HN: An SQS Alternative on Postgres",
-        "total_comments": 34,
-        "points": 118
-    },
-    {
-        "order": 11,
-        "title": "Familial Transmission of Personality Is Higher Than Shown in Typical Studies",
-        "total_comments": 82,
-        "points": 84
-    },
-    {
-        "order": 12,
-        "title": "Show HN: Timmerse.com (YC W22) Easily create immersive real-time interactions",
-        "total_comments": 3,
-        "points": 18
-    },
-    {
-        "order": 13,
-        "title": "VideoPrism: A foundational visual encoder for video understanding",
-        "total_comments": 10,
-        "points": 57
-    },
-    {
-        "order": 14,
-        "title": "Logarithmic Scales",
-        "total_comments": 0,
-        "points": 10
-    },
-    {
-        "order": 15,
-        "title": "Show HN: Browser-based knitting (pattern) software",
-        "total_comments": 16,
-        "points": 83
-    },
-    {
-        "order": 16,
-        "title": "No \"Zero-Shot\" Without Exponential Data",
-        "total_comments": 67,
-        "points": 122
-    },
-    {
-        "order": 17,
-        "title": "AlphaFold 3 predicts the structure and interactions of life's molecules",
-        "total_comments": 442,
-        "points": 1035
-    },
-    {
-        "order": 18,
-        "title": "A Brief History of the First Planetarium",
-        "total_comments": 7,
-        "points": 17
-    },
-    {
-        "order": 19,
-        "title": "UTC, Tai, and Unix Time (2001)",
-        "total_comments": 98,
-        "points": 96
-    },
-    {
         "order": 20,
-        "title": "Deaf girl is cured in world first gene therapy trial",
-        "total_comments": 88,
-        "points": 202
+        "title": "Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done",
+        "total_comments": 102,
+        "points": 232
     },
     {
         "order": 21,
-        "title": "The Woman Who Showed President Biden ChatGPT",
-        "total_comments": 19,
-        "points": 21
+        "title": "The world has probably passed peak pollution",
+        "total_comments": 158,
+        "points": 164
     },
     {
         "order": 22,
-        "title": "Xilinx HBM2 Internals (2023)",
-        "total_comments": 10,
-        "points": 57
+        "title": "Sound-suppressing silk can create quiet spaces",
+        "total_comments": 95,
+        "points": 153
     },
     {
         "order": 23,
-        "title": "Show HN: An open source alternative to some of Slack AI's premium features",
-        "total_comments": 14,
-        "points": 43
+        "title": "I was at the clapperboard for Orson Welles' drunk wine commercial (2021)",
+        "total_comments": 68,
+        "points": 103
     },
     {
         "order": 24,
-        "title": "Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x",
-        "total_comments": 81,
-        "points": 422
+        "title": "Sioyek is a PDF viewer with a focus on textbooks and research papers",
+        "total_comments": 97,
+        "points": 280
     },
     {
         "order": 25,
-        "title": "Hymn for Walpurgisnacht",
-        "total_comments": 12,
-        "points": 38
+        "title": "Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location",
+        "total_comments": 0,
+        "points": 3
     },
     {
         "order": 26,
-        "title": "Temporal Python – A durable, distributed asyncio event loop (2023)",
-        "total_comments": 38,
-        "points": 162
+        "title": "Player-Driven Emergence in LLM-Driven Game Narrative",
+        "total_comments": 51,
+        "points": 98
     },
     {
         "order": 27,
-        "title": "Microsoft PlayReady – Complete Client Identity Compromise",
-        "total_comments": 123,
-        "points": 159
+        "title": "Radient – vectorize many data types, not just text",
+        "total_comments": 8,
+        "points": 35
     },
     {
         "order": 28,
-        "title": "Symbolica Computer Algebra System",
-        "total_comments": 86,
-        "points": 109
+        "title": "Elvish, expressive programming language and a versatile interactive shell",
+        "total_comments": 90,
+        "points": 124
     },
     {
         "order": 29,
-        "title": "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
-        "total_comments": 94,
-        "points": 206
+        "title": "CS388: Natural Language Processing",
+        "total_comments": 9,
+        "points": 116
     },
     {
         "order": 30,
-        "title": "Sean Baxter: Safe C++ [video]",
-        "total_comments": 0,
-        "points": 6
+        "title": "It's always TCP_NODELAY",
+        "total_comments": 232,
+        "points": 746
     }
 ]
